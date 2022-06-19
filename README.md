@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello yes
 
-<!--
-**goose-TM/goose-TM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code things
 
-Here are some ideas to get you started:
+I can code in C#, Batch, VBS, Powershell, MCfunction, ahk, and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently learning Java, Javascript, and Python
+
+My hobbies Gaming, Coding, Sleeping until 1pm, and gaming again
+
+Discord:GooseBoose#9819
+
+Youtube:https://www.youtube.com/channel/UC66kdnhR_kI3ROB8vNwe06g
+
+Telegram:@goosetm
