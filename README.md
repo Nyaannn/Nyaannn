@@ -2,9 +2,9 @@ Hello yes
 
 I code things
 
-I can code in C#, Batch, VBS, Powershell, MCfunction, ahk, and more
+I can code in C#, Batch, VBS, Powershell, MCfunction, ahk, python, java
 
-I am currently learning Java, Javascript, and Python
+I am learning javascript,html,and css
 
 My hobbies Gaming, Coding, Sleeping until 1pm, and gaming again
 
