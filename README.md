@@ -1,4 +1,4 @@
-I know Python,Javascript,HTML,Css,VBS,AHK,MC-Function,C#,Batch,Powershell,jand how to write a txt file
+I know Python,Javascript,HTML,Css,VBS,AHK,MC-Function,C#,Batch,Powershell,And how to write a txt file
 
 Discord:PY3_#0001
 
