@@ -1,4 +1,4 @@
-I know Python,Javascript,HTML,Css,VBS,AHK,MC-Function,C#,Batch,Powershell,Java,Lua,And how to write a txt file
+I know Python,Javascript,HTML,Css,VBS,AHK,MC-Function,C#,Batch,Powershell,Java,Lua,kotlin,luac,shell, And how to write a txt file
 
 Dm me for any inquiry Nyaann#3881
 
