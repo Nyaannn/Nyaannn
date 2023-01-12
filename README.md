@@ -1,7 +1,17 @@
-I know Python,Javascript,HTML,Css,VBS,AHK,MC-Function,C#,Batch,Powershell,Java,Lua,kotlin,luac,shell, And how to write a txt file
-
-Dm me for any inquiry Nyaann#3881
-
-I like to play minecraft
-
-![image](https://user-images.githubusercontent.com/88116907/198912264-b24e68e7-fa0a-4594-a853-ae8e2cfd842c.png)
+Fughgin Credentials or sum shit
+```
++++++++LANGS++++++++++++LEARNING++++++++++++++CONTACTS++++++++
++>>Python        +>>GOLang           +>>DISCORD>>Nyaann#3881 +
++>>Javascript    +>>VBS              +>>TELEGRAM>>NyaannKitty+
++>>Java          +>>C++              +                       +
++>>HTML          +>>Rust             +                       +
++>>CSS           +>>Ruby             +                       +
++>>C+            +>>Maybe C          +                       +
++>>BATCH         +>>Maybe Holy C     +                       +
++>>PS1           +                   +                       +
++>>Lua           +                   +                       +
++>>LuaC          +                   +                       +
++>>Kotlin        +                   +                       +
++>>SQL           +                   +                       +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+```
