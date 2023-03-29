@@ -6,7 +6,7 @@ Fughgin Credentials or sum shit
 +>>Java          +>>C++              +                       +
 +>>HTML          +>>Rust             +                       +
 +>>CSS           +>>Ruby             +                       +
-+>>C+            +>>Maybe C          +                       +
++>>C#            +>>Maybe C          +                       +
 +>>BATCH         +>>Maybe Holy C     +                       +
 +>>PS1           +                   +                       +
 +>>Lua           +                   +                       +
